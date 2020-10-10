@@ -1,0 +1,15 @@
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\bin\Debug\netcoreapp3.1\simplecalcCamua.exe
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\bin\Debug\netcoreapp3.1\simplecalcCamua.deps.json
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\bin\Debug\netcoreapp3.1\simplecalcCamua.runtimeconfig.json
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\bin\Debug\netcoreapp3.1\simplecalcCamua.runtimeconfig.dev.json
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\bin\Debug\netcoreapp3.1\simplecalcCamua.dll
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\bin\Debug\netcoreapp3.1\simplecalcCamua.pdb
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\obj\Debug\netcoreapp3.1\simplecalcCamua.csprojAssemblyReference.cache
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\obj\Debug\netcoreapp3.1\simplecalcCamua.Form1.resources
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\obj\Debug\netcoreapp3.1\simplecalcCamua.csproj.GenerateResource.cache
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\obj\Debug\netcoreapp3.1\simplecalcCamua.AssemblyInfoInputs.cache
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\obj\Debug\netcoreapp3.1\simplecalcCamua.AssemblyInfo.cs
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\obj\Debug\netcoreapp3.1\simplecalcCamua.csproj.CoreCompileInputs.cache
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\obj\Debug\netcoreapp3.1\simplecalcCamua.dll
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\obj\Debug\netcoreapp3.1\simplecalcCamua.pdb
+C:\Users\Czarina\source\repos\simplecalcCamua\simplecalcCamua\obj\Debug\netcoreapp3.1\simplecalcCamua.genruntimeconfig.cache
